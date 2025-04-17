@@ -5,4 +5,4 @@ Folder 1D_Wave_Equation_Various_Schemes deals with the solution of 1D Wave Equat
 
 Folder Multiple_Linear_Wave_Equation deals with the solution of multiple linear wave equations (m x m system of equations) and their solution using the Upwind scheme. The initial conditions are Riemann ICs. Cells are equi-sized. FVM used.
 
-
+Folder Exact_Godunov_Solver_Burgers_Equation deals with the solution of the Burgers equation, using the exact solution of the Riemann problem through the Godunov scheme. Cells are equi-sized. FVM used
