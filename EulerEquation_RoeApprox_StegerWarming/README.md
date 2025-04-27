@@ -1,1 +1,1 @@
-
+The C++ file in this directory is used to solve the 1D Sod Shock Tube Problem till t = 0.15s using the Roe Approximate Scheme with and without the entropy fix. The MATLAB files are used to extract the numerical results for each scheme and then plot a comparitive plot of the numerical results with the analytical results. 
