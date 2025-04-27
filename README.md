@@ -1,5 +1,5 @@
 # CGD_IITG
-Codes for Computational Gas Dynamics problems
+Codes for Computational Gas Dynamics problems. These are the codes that I had developed as part of my assignments and course project in the Computational Gas Dynamics course (ME683) at IIT Guwahati, during the final semester of my BTech. Codes are written in a fairly modular manner. 
 
 Folder 1D_Wave_Equation_Various_Schemes deals with the solution of 1D Wave Equation with periodic boundary conditions for different numerical schemes viz. FTFS, FTBS, Upwind, Lax-Friedrichs and Lax-Wendroff. Mesh consists of 1D equi-sized cells. Initial values are assigned to cells by averaging over the cell. FVM used.
 
